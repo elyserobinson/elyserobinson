@@ -1,18 +1,15 @@
 # Hi there 👋🏿
 
 ## About Me
-
 I am the Founder of [Switch Into Tech](https://switchintotech.com) and [NewsIn.it](https://NewsIn.it) and an Azure Cloud Engineer...in love with Mexico, researching any and everything, and helping people get into the tech industry.
 
 ## Current Facts
-
 - 🔭 I’m currently working on ... [FullScholarships.org](https://FullScholarships.org) and [Apprenticeship.it](https://Apprenticeship.it) and [Nube: Switch Into A Cloud Career](https://elyse.in/book)
 - ⌛ I'm finished with ... [SwitchIntoTech.com](https://SwitchIntoTech.com) and [NewsIn.it](https://NewsIn.it)
 - 🌱 I’m currently learning ... [Azure - AZ 600 Configuring and Operating a Hybrid Cloud with Microsoft Azure Stack Hub](https://docs.microsoft.com/en-us/learn/certifications/exams/az-600) and Precalculus
 - ⚡ Fun fact: ... I'm model size 5'11"
 
 ## Upcoming Seminars I'm Hosting
-
 **Find an Entry Level Job in Tech: Switch to Become a Government Worker**\
 Sunday, September 26, 2021 @ 4:00pm Central\
 🔍 💰 Step into 6 figures 💰 🔎
@@ -71,8 +68,9 @@ Join Elyse Y. Robinson, a former government worker and current clearance holder 
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
 ![Markdown](https://img.shields.io/badge/-Markdown-05122A?style=flat&logo=markdown)
-
+![Bash](https://img.shields.io/badge/-Shell_Script-05122A?style=flat&logo=gnu-bash)&nbsp;
+<img src="https://www.neudesic.com/wp-content/uploads/Microsoft_Azure.png" alt="Azure" title="Azure" width="10%" />
+    
 ## Contact Me
-
 [<img alt="Elyse.pw" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />](https://elyse.pw)
 [<img alt="Elyse Robinson | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://linkedin.com/in/mselyserobinson)
