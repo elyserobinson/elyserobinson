@@ -2,7 +2,7 @@
 
 ## About Me
 
-I am the Founder of [Switch Into Tech](https://switchintotech.com) [NewsIn.it](https://NewsIn.it) and an Azure Cloud Engineer...in love with Mexico, researching any and everything, and helping people get into the tech industry.
+I am the Founder of [Switch Into Tech](https://switchintotech.com) and [NewsIn.it](https://NewsIn.it) and an Azure Cloud Engineer...in love with Mexico, researching any and everything, and helping people get into the tech industry.
 
 ## Current Facts
 
@@ -60,26 +60,20 @@ Join Elyse Y. Robinson, a former government worker and current clearance holder 
 [REGISTER](https://elyse.in/clearance)
 
 ## Skills
-![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
 ![Docker](https://img.shields.io/badge/-Docker-000?&logo=Docker)
 ![Kubernetes](https://img.shields.io/badge/-Kubernetes-000?&logo=Kubernetes)
 ![Linux](https://img.shields.io/badge/-Linux-000?&logo=Linux)
+![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
+![Django](https://img.shields.io/badge/-Django-05122A?style=flat&logo=django&logoColor=092E20)&nbsp;
+![Flask](https://img.shields.io/badge/-Flask-05122A?style=flat&logo=flask)&nbsp;
+![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
+![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
+![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
+![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
+![Markdown](https://img.shields.io/badge/-Markdown-05122A?style=flat&logo=markdown)
 
 ## Contact Me
 
-<!-- Actual text -->
-
-You can find me on [![LinkedIn][2.2]][2]
-
-<!-- Icons -->
-
-[1.2]: http://i.imgur.com/wWzX9uB.png (twitter icon without padding)
-[2.2]: https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/linkedin-3-16.png
-
-<!-- Links to your social media accounts -->
-
-[1]: https://twitter.com/mselyserobinson
-[2]: https://www.linkedin.com/in/mselyserobinson
-
-
-![visitors](https://visitor-badge.laobi.icu/badge?page_id=elyserobinson.elyserobinson)
+<a href="https://www.elyse.pw"><img src="https://img.shields.io/badge/-adityavsingh.com-3423A6?style=flat&logo=Google-Chrome&logoColor=white"/></a>
+<a href="https://linkedin.com/in/mselyserobinson"><img src="https://img.shields.io/badge/-Aditya%20Vikram%20Singh-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
+<a href="mailto:me@elyserobinson.com"><img src="https://img.shields.io/badge/-avsingh@umass.edu-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
