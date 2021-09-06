@@ -55,6 +55,8 @@ Join Elyse Y. Robinson, a former government worker and current clearance holder 
 
 <br>
 
+## Contact Me
+
 <!-- Actual text -->
 
 You can find me on [![LinkedIn][2.2]][2]
