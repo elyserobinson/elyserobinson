@@ -57,9 +57,9 @@ Join Elyse Y. Robinson, a former government worker and current clearance holder 
 [REGISTER](https://elyse.in/clearance)
 
 ## Skills
-![Docker](https://img.shields.io/badge/-Docker-000?&logo=Docker)
-![Kubernetes](https://img.shields.io/badge/-Kubernetes-000?&logo=Kubernetes)
-![Linux](https://img.shields.io/badge/-Linux-000?&logo=Linux)
+![Docker](https://img.shields.io/badge/-Docker-000?&logo=Docker)&nbsp;
+![Kubernetes](https://img.shields.io/badge/-Kubernetes-000?&logo=Kubernetes)&nbsp;
+![Linux](https://img.shields.io/badge/-Linux-000?&logo=Linux)&nbsp;
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
 ![Django](https://img.shields.io/badge/-Django-05122A?style=flat&logo=django&logoColor=092E20)&nbsp;
 ![Flask](https://img.shields.io/badge/-Flask-05122A?style=flat&logo=flask)&nbsp;
@@ -67,8 +67,10 @@ Join Elyse Y. Robinson, a former government worker and current clearance holder 
 ![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
-![Markdown](https://img.shields.io/badge/-Markdown-05122A?style=flat&logo=markdown)
+![Markdown](https://img.shields.io/badge/-Markdown-05122A?style=flat&logo=markdown)&nbsp;
 ![Bash](https://img.shields.io/badge/-Shell_Script-05122A?style=flat&logo=gnu-bash)&nbsp;
+[![Jekyll](http://img.shields.io/badge/-Jekyll-eee?style=flat-square&logo=jekyll&logoColor=a83232)]&nbsp;
+[![Wordpress](http://img.shields.io/badge/-Wordpress-eee?style=flat-square&logo=wordpress&logoColor=21759B)]&nbsp;
 <img src="https://www.neudesic.com/wp-content/uploads/Microsoft_Azure.png" alt="Azure" title="Azure" width="10%" />
     
 ## Contact Me
