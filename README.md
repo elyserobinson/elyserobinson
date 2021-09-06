@@ -13,7 +13,7 @@ I am the Founder of [NewsIn.it](https://NewsIn.it) and an Azure Cloud Engineer..
 
 ## Upcoming Seminars I'm Hosting
 
-**Find an Entry Level Job in Tech: Switch to Become a Government Worker** \\
+**Find an Entry Level Job in Tech: Switch to Become a Government Worker**\
 Sunday, September 26, 2021 @ 4:00pm Central
 🔍 💰 Step into 6 figures 💰 🔎
 
@@ -23,7 +23,7 @@ Join Elyse Y. Robinson, a former government worker, and learn how to switch into
 
 [REGISTER](https://elyse.in/gov)
 
-**Live LinkedIn Reviews**
+**Live LinkedIn Reviews**\
 Sunday, October 24, 2021 @ 4:00pm Central
 🔍 💰 Step into 6 figures 💰 🔎
 
@@ -33,7 +33,7 @@ Have your LinkedIn profile reviewed by Elyse. I will show you my LinkedIn profil
 
 [REGISTER](https://elyse.in/linkedin)
 
-**Live Resume Reviews
+**Live Resume Reviews\
 Sunday, Novermber 21, 2021 @ 4:00pm Central**
 🔍 💰 Step into 6 figures 💰 🔎
 
@@ -43,7 +43,7 @@ Have your IT resume reviewed by Elyse. The resume review will be a 15 minute liv
 
 [REGISTER](https://elyse.in/resume)
 
-**Where to Find Clearance Jobs in Tech**
+**Where to Find Clearance Jobs in Tech**\
 Sunday, December 19, 2021 @ 4:00pm Central
 🔍 💰 Step into 6 figures 💰 🔎
 
