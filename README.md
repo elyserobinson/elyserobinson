@@ -6,7 +6,7 @@ I am the Founder of [Switch Into Tech](https://switchintotech.com) and [NewsIn.i
 
 ## Current Facts
 
-- 🔭 I’m currently working on ... [FullScholarships.org](https://FullScholarships.org) and [Apprenticeship.it](https://Apprenticeship.it)
+- 🔭 I’m currently working on ... [FullScholarships.org](https://FullScholarships.org) and [Apprenticeship.it](https://Apprenticeship.it) and [Nube: Switch Into A Cloud Career](https://elyse.in/book)
 - ⌛ I'm finished with ... [SwitchIntoTech.com](https://SwitchIntoTech.com) and [NewsIn.it](https://NewsIn.it)
 - 🌱 I’m currently learning ... [Azure - AZ 600 Configuring and Operating a Hybrid Cloud with Microsoft Azure Stack Hub](https://docs.microsoft.com/en-us/learn/certifications/exams/az-600) and Precalculus
 - ⚡ Fun fact: ... I'm model size 5'11"
