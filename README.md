@@ -59,15 +59,11 @@ Join Elyse Y. Robinson, a former government worker and current clearance holder 
 
 [REGISTER](https://elyse.in/clearance)
 
-\
-\
-
 ## Skills
 ![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
 ![Docker](https://img.shields.io/badge/-Docker-000?&logo=Docker)
 ![Kubernetes](https://img.shields.io/badge/-Kubernetes-000?&logo=Kubernetes)
 ![Linux](https://img.shields.io/badge/-Linux-000?&logo=Linux)
-
 
 ## Contact Me
 
@@ -85,6 +81,6 @@ You can find me on [![LinkedIn][2.2]][2]
 [1]: https://twitter.com/mselyserobinson
 [2]: https://www.linkedin.com/in/mselyserobinson
 
-<br>
+\
 
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=elyserobinson.elyserobinson)
