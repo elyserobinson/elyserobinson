@@ -81,6 +81,5 @@ You can find me on [![LinkedIn][2.2]][2]
 [1]: https://twitter.com/mselyserobinson
 [2]: https://www.linkedin.com/in/mselyserobinson
 
-\
 
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=elyserobinson.elyserobinson)
