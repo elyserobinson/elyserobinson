@@ -74,4 +74,6 @@ Join Elyse Y. Robinson, a former government worker and current clearance holder 
 <img src="https://www.neudesic.com/wp-content/uploads/Microsoft_Azure.png" alt="Azure" title="Azure" width="10%" />
     
 ## Contact Me
-[<img alt="Elyse.pw" src="4490636_internet_media_social_social media_website_icon.png">](https://elyse.pw) [<img alt="Elyse Robinson | LinkedIn" src="104493_linkedin_icon.png">](https://linkedin.com/in/mselyserobinson) [<img alt="Elyse Robinson | Paypal" src="692162_paypal_currency_line-icon_logos_payment_icon.png">](https://linkedin.com/in/mselyserobinson)
+[<img alt="Elyse.pw" src="4490636_internet_media_social_social media_website_icon.png">](https://elyse.pw)
+[<img alt="Elyse Robinson | LinkedIn" src="104493_linkedin_icon.png">](https://linkedin.com/in/mselyserobinson)
+[<img alt="Elyse Robinson | Paypal" src="692162_paypal_currency_line-icon_logos_payment_icon.png">](https://linkedin.com/in/mselyserobinson)
