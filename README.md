@@ -74,5 +74,6 @@ Join Elyse Y. Robinson, a former government worker and current clearance holder 
 
 ## Contact Me
 
-[website]: https://elyse.pw
-[linkedin]: https://linkedin.com/in/mselyserobinson
+[![PayPal](https://paypal.me/sugarcollins)][paypal-donations] — If you love me, you can donate.
+[<img align="left" alt="Elyse.pw" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][https://elyse.pw]
+[<img align="left" alt="Elyse Robinson | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][[https://linkedin.com/in/mselyserobinson]
