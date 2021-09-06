@@ -2,7 +2,7 @@
 
 ## About Me
 
-I am the Founder of [NewsIn.it](https://NewsIn.it) and an Azure Cloud Engineer...in love with Mexico, researching any and everything, and helping people get into the tech industry.
+I am the Founder of [Switch Into Tech](https://switchintotech.com) [NewsIn.it](https://NewsIn.it) and an Azure Cloud Engineer...in love with Mexico, researching any and everything, and helping people get into the tech industry.
 
 ## Current Facts
 
@@ -59,7 +59,15 @@ Join Elyse Y. Robinson, a former government worker and current clearance holder 
 
 [REGISTER](https://elyse.in/clearance)
 
-<br>
+\
+\
+
+## Skills
+![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
+![Docker](https://img.shields.io/badge/-Docker-000?&logo=Docker)
+![Kubernetes](https://img.shields.io/badge/-Kubernetes-000?&logo=Kubernetes)
+![Linux](https://img.shields.io/badge/-Linux-000?&logo=Linux)
+
 
 ## Contact Me
 
