@@ -10,18 +10,6 @@ I am the Founder of [Switch Into Tech](https://switchintotech.com) and [NewsIn.i
 - ⚡ Fun fact: ... I'm model size 5'11"
 
 ## Upcoming Seminars I'm Hosting
-**Find an Entry Level Job in Tech: Switch to Become a Government Worker**\
-Sunday, September 26, 2021 @ 4:00pm Central\
-🔍 💰 Step into 6 figures 💰 🔎
-
-*Why is it SO hard to find an entry level job in Tech? Let's explore another option to switch into tech and step into 6 figures.*
-
-Join Elyse Y. Robinson, a former government worker, and learn how to switch into tech through one of the best kept secrets out there: GOVERNMENT WORK. The government hires many entry level workers every year, including for careers in Tech. The type of projects you can work on, the financial benefits (PENSIONS!), the potential to give back to your community by being a public servant, and so many other advantages cannot be beat! Sign up today to find out how you can switch into tech with a wonderful career in the government. 
-
-[REGISTER](https://elyse.in/gov)
-
-<hr>
-
 **Live LinkedIn Reviews**\
 Sunday, October 24, 2021 @ 4:00pm Central\
 🔍 💰 Step into 6 figures 💰 🔎
