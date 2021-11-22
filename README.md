@@ -11,18 +11,6 @@ I am the Founder of [Switch Into Tech](https://switchintotech.com) and [NewsIn.i
 
 ## Upcoming Seminars I'm Hosting
 
-**Live Resume Reviews**\
-Sunday, Novermber 21, 2021 @ 4:00pm Central\
-🔍 💰 Step into 6 figures 💰 🔎
-
-*A resume is the key that opens the interview door. Learn how to make your resume stand out from the rest.*
-
-Have your IT resume reviewed by Elyse. The resume review will be a 15 minute live review with pure honesty. I will identify what needs to be improved and can help organize your information. Please have your resume and job description prepared to share over Zoom. I will randomly select 5 people to review their resumes.
-
-[REGISTER](https://elyse.in/resume)
-
-<hr>
-
 **Where to Find Clearance Jobs in Tech**\
 Sunday, December 19, 2021 @ 4:00pm Central\
 🔍 💰 Step into 6 figures 💰 🔎
