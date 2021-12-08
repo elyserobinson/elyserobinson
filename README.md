@@ -1,18 +1,18 @@
 # Hi there 👋🏿
 
 ## About Me
-I am the Founder of [Switch Into Tech](https://switchintotech.com) and [NewsIn.it](https://NewsIn.it) and an Azure Cloud Engineer...in love with Mexico, researching any and everything, and helping people get into the tech industry.
+I am the Founder of [Switch Into Tech](https://switchintotech.com) and [NewsIn.it](https://NewsIn.it) and an Azure Cloud Consultant...in love with Mexico, researching any and everything, and helping people get into the tech industry.
 
 ## Current Facts
-- 🔭 I’m currently working on ... [FullScholarships.org](https://FullScholarships.org) and [Apprenticeship.it](https://Apprenticeship.it) and [Nube: Switch Into A Cloud Career](https://elyse.in/book)
+- 🔭 I’m currently working on ... [Apprenticeship.it](https://Apprenticeship.it) and [Nube: Switch Into A Cloud Career](https://elyse.in/book)
 - ⌛ I'm finished with ... [SwitchIntoTech.com](https://SwitchIntoTech.com) and [NewsIn.it](https://NewsIn.it)
-- 🌱 I’m currently learning ... [Azure - AZ 600 Configuring and Operating a Hybrid Cloud with Microsoft Azure Stack Hub](https://docs.microsoft.com/en-us/learn/certifications/exams/az-600) and Precalculus
+- 🌱 I’m currently learning ... Blockchain Concepts and JavaScript (https://docs.microsoft.com/en-us/learn/certifications/exams/98-382)
 - ⚡ Fun fact: ... I'm model size 5'11"
 
 ## Upcoming Seminars I'm Hosting
 
 **Where to Find Clearance Jobs in Tech**\
-Sunday, December 19, 2021 @ 4:00pm Central\
+Sunday, January 23, 2022 @ 4:00pm Central\
 🔍 💰 Step into 6 figures 💰 🔎
 
 *The highly coveted security clearance and why everyone wants one.*
