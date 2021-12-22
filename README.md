@@ -1,11 +1,11 @@
 # Hi there 👋🏿
 
 ## About Me
-I am the Founder of [Switch Into Tech](https://switchintotech.com) and [NewsIn.it](https://NewsIn.it) and an Azure Cloud Consultant...in love with Mexico, researching any and everything, and helping people get into the tech industry.
+I am the Founder of [Switch Into Tech](https://switchintotech.com), [SwitchInto.Tech](https://SwitchInto.Tech) and [NewsIn.it](https://NewsIn.it) and an Azure Cloud Consultant...in love with Mexico, researching any and everything, and helping people get into the tech industry.
 
 ## Current Facts
 - 🔭 I’m currently working on ... [Apprenticeship.it](https://Apprenticeship.it) and [Nube: Switch Into A Cloud Career](https://elyse.in/book)
-- ⌛ I'm finished with ... [SwitchIntoTech.com](https://SwitchIntoTech.com) and [NewsIn.it](https://NewsIn.it)
+- ⌛ I'm finished with ... [SwitchIntoTech.com](https://SwitchIntoTech.com) and [NewsIn.it](https://NewsIn.it) and [SwitchInto.Tech](https://SwitchInto.Tech)
 - 🌱 I’m currently learning ... Blockchain Concepts and JavaScript (https://docs.microsoft.com/en-us/learn/certifications/exams/98-382)
 - ⚡ Fun fact: ... I'm model size 5'11"
 
@@ -17,7 +17,7 @@ Sunday, January 23, 2022 @ 4:00pm Central\
 
 *The highly coveted security clearance and why everyone wants one.*
 
-Join Elyse Y. Robinson, a former government worker and current clearance holder with a question and answer session on how to obtain a security clearance (Secret, Top Secret). How hard is it really to get a clearance? What type of background do I need to obtain a clearance? What does "sponsor" a clearance even mean? What are some websites to find employment to obtain a security clearance? What are some companies that will help me obtain a security clearance? What fields are in demand to obtain a security clearance? Do I need to do a polygraph and drug test? Am I able to work remotely with a security clearance? And more...
+Join Elyse Y. Robinson, a former government worker and current clearance holder with a question and answer session on how to obtain a security clearance (Secret, Top Secret). How hard is it really to get a clearance? What type of background do I need to obtain a clearance? What does "sponsor" a clearance even mean? What are some websites to find employment to obtain a security clearance? What are some companies that will help me obtain a security clearance? What fields are in demand to obtain a security clearance? Do I need to do a polygraph and drug test? Am I able to work remotely with a security clearance? And more...**get a list of employers hiring employees without a clearance.**
 
 [REGISTER](https://elyse.in/clearance)
 
