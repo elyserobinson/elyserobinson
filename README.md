@@ -1,4 +1,4 @@
-# Hi there 👋🏿
+# Hi there ✊🏿🏿
 
 ## About Me
 I am the Founder of [Switch Into Tech](https://switchintotech.com), [SwitchInto.Tech](https://SwitchInto.Tech) and [NewsIn.it](https://NewsIn.it) and an Azure Cloud Consultant...in love with Mexico, researching any and everything, and helping people get into the tech industry.
