@@ -41,4 +41,4 @@ Let's discuss how to switch into a cloud career. Is it easy or hard to get into?
 ## Contact Me
 [<img alt="ElyseRobinson.com" src="4490636_internet_media_social_social media_website_icon.png">](https://elyserobinson.com)
 [<img alt="Elyse Robinson | LinkedIn" src="104493_linkedin_icon.png">](https://linkedin.com/in/mselyserobinson)
-[<img alt="Elyse Robinson | Paypal" src="money-bag.png">](https://buymeacoffee.com/switchintotech)
+[<img alt="Elyse Robinson | Paypal" src="money-bag.png">](https://buy.stripe.com/bIYcPQ3c8dkL9qM6ou)
