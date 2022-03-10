@@ -11,15 +11,28 @@ I am the Founder of [Switch Into Tech](https://switchintotech.com), [SwitchInto.
 
 ## Upcoming Seminars I'm Hosting
 
-**Nube: Switch Into A Cloud Career**\
-Sunday, March 6, 2022 @ 4:00pm Central\
+**Live Resume Reviews**\
+Sunday, April 24, 2022 @ 4:00pm Central\
 🔍 💰 Step into 6 figures 💰 🔎
 
-*Question and answer session on how to start a career working with Microsoft Azure, Amazon Web Services (AWS), or Google Cloud (GCP).*
+*A resume is the key that opens the interview door. Learn how to make your resume stand out from the rest.*
 
-Let's discuss how to switch into a cloud career. Is it easy or hard to get into? What should I study? What certifications are needed? Where can I go for reputable study material? What should I specialize in? How many jobs are available? Are they remote jobs? How long does it take to get proficient? How much money does it take to get into the field? And more...
+Have your resume reviewed by Elyse. I will show you my Resume that has gotten me interviews at Apple, Google, Sofi, Palo Alto Networks, and more. The resume review will be a 15 minute live review with pure honesty. I will identify what needs to be improved and can help organize your information. Please have your resume and job description prepared. I will randomly select 3 people to review their resumes.
 
-[REGISTER](https://elyse.in/cloud)
+[REGISTER](https://elyse.in/job)
+
+---
+
+**Live LinkedIn Reviews**\
+Sunday, May 29, 2022 @ 4:00pm Central\
+🔍 💰 Step into 6 figures 💰 🔎
+
+*Learn how to make your LinkedIn profile stand out from the rest.*
+
+Have your LinkedIn profile reviewed by Elyse. I will show you my LinkedIn profile, a profile that has gotten me interviews at FAANG and other top organizations like Comcast, Nike, and Morgan Stanley. The LinkedIn profile review will be a 15 minute live review with pure honesty. I will identify what needs to be improved and can help organize your information. Please have your LinkedIn profile and a real job bulletin prepared to share over Zoom. I will randomly select 3 people to review their LinkedIn profiles.
+
+[REGISTER](https://elyse.in/review)
+
 
 ## Skills
 ![Docker](https://img.shields.io/badge/-Docker-000?&logo=Docker)&nbsp;
