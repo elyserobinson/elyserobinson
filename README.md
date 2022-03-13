@@ -33,6 +33,14 @@ Have your LinkedIn profile reviewed by Elyse. I will show you my LinkedIn profil
 
 [REGISTER](https://elyse.in/review)
 
+## Recruiting
+🔎 Searching for CLEARED people in Tech\
+🗣️ All roles\
+🤑 Entry level, mid, senior roles\
+🏞️ Remote/hybrid\
+🇺🇸 Only Americans\
+\
+📨Email: [Hello!](elyse@switchintotech.com)
 
 ## Skills
 ![Docker](https://img.shields.io/badge/-Docker-000?&logo=Docker)&nbsp;
@@ -55,12 +63,3 @@ Have your LinkedIn profile reviewed by Elyse. I will show you my LinkedIn profil
 [<img alt="ElyseRobinson.com" src="4490636_internet_media_social_social media_website_icon.png">](https://elyserobinson.com)
 [<img alt="Elyse Robinson | LinkedIn" src="104493_linkedin_icon.png">](https://linkedin.com/in/mselyserobinson)
 [<img alt="Elyse Robinson | Paypal" src="money-bag.png">](https://buy.stripe.com/bIYcPQ3c8dkL9qM6ou)
-
-## Recruiting
-🔎 Searching for CLEARED people in Tech\
-🗣️ All roles\
-🤑 Entry level, mid, senior roles\
-🏞️ Remote/hybrid\
-🇺🇸 Only Americans\
-\
-📨Email: [Hello!](elyse@switchintotech.com)
