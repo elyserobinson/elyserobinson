@@ -22,7 +22,7 @@ Have your LinkedIn profile reviewed by Elyse. I will show you my LinkedIn profil
 [REGISTER](https://elyse.in/review)
 
 ## Recruiting
-🔎 Searching for people with and without clearances in Tech
+🔎 Searching for people with and without clearances in Tech\
 🗣️ All roles (technical and non-technical)\
 🤑 Entry level, mid, senior roles\
 🏞️ Remote/hybrid\
