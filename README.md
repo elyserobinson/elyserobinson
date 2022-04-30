@@ -22,21 +22,18 @@ Have your LinkedIn profile reviewed by Elyse. I will show you my LinkedIn profil
 [REGISTER](https://elyse.in/review)
 
 ## Recruiting
-🔎 Searching for CLEARED people in Tech\
-🗣️ All roles\
+🔎 Searching for people with and without clearances in Tech
+🗣️ All roles (technical and non-technical)\
 🤑 Entry level, mid, senior roles\
 🏞️ Remote/hybrid\
-🇺🇸 Only Americans\
+🇺🇸 Worldwide\
 \
-📨Email: [Hello!](elyse@switchintotech.com)
+📨*READ* and fill out this form to make my life easier: [Referral Form](https://elyse.in/referral)
 
 ## Skills
 ![Docker](https://img.shields.io/badge/-Docker-000?&logo=Docker)&nbsp;
 ![Kubernetes](https://img.shields.io/badge/-Kubernetes-000?&logo=Kubernetes)&nbsp;
 ![Linux](https://img.shields.io/badge/-Linux-000?&logo=Linux)&nbsp;
-![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
-![Django](https://img.shields.io/badge/-Django-05122A?style=flat&logo=django&logoColor=092E20)&nbsp;
-![Flask](https://img.shields.io/badge/-Flask-05122A?style=flat&logo=flask)&nbsp;
 ![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
 ![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
