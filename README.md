@@ -11,18 +11,6 @@ I am the Founder of [Switch Into Tech](https://switchintotech.com), [SwitchInto.
 
 ## Upcoming Seminars I'm Hosting
 
-**Live Resume Reviews**\
-Sunday, April 24, 2022 @ 4:00pm Central\
-🔍 💰 Step into 6 figures 💰 🔎
-
-*A resume is the key that opens the interview door. Learn how to make your resume stand out from the rest.*
-
-Have your resume reviewed by Elyse. I will show you my Resume that has gotten me interviews at Apple, Google, Sofi, Palo Alto Networks, and more. The resume review will be a 15 minute live review with pure honesty. I will identify what needs to be improved and can help organize your information. Please have your resume and job description prepared. I will randomly select 3 people to review their resumes.
-
-[REGISTER](https://elyse.in/job)
-
----
-
 **Live LinkedIn Reviews**\
 Sunday, May 29, 2022 @ 4:00pm Central\
 🔍 💰 Step into 6 figures 💰 🔎
