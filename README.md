@@ -12,14 +12,14 @@ I am the Founder of [Switch Into Tech](https://switchintotech.com), [SwitchInto.
 ## Upcoming Seminars I'm Hosting
 
 **Live LinkedIn Reviews**\
-Sunday, May 29, 2022 @ 4:00pm Central\
+Sunday, July 31, 2022 @ 4:00pm Central\
 🔍 💰 Step into 6 figures 💰 🔎
 
 *Learn how to make your LinkedIn profile stand out from the rest.*
 
 Have your LinkedIn profile reviewed by Elyse. I will show you my LinkedIn profile, a profile that has gotten me interviews at FAANG and other top organizations like Comcast, Nike, and Morgan Stanley. The LinkedIn profile review will be a 15 minute live review with pure honesty. I will identify what needs to be improved and can help organize your information. Please have your LinkedIn profile and a real job bulletin prepared to share over Zoom. I will randomly select 3 people to review their LinkedIn profiles.
 
-[REGISTER](https://elyse.in/review)
+[REGISTER](https://elyse.in/july)
 
 ## Recruiting
 🔎 Searching for people with and without clearances in Tech\
