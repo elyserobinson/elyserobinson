@@ -21,15 +21,6 @@ Have your LinkedIn profile reviewed by Elyse. I will show you my LinkedIn profil
 
 [REGISTER](https://elyse.in/july)
 
-## Recruiting
-🔎 Searching for people with and without clearances in Tech\
-🗣️ All roles (technical and non-technical)\
-🤑 Entry level, mid, senior roles\
-🏞️ Remote/hybrid\
-🇺🇸 Worldwide\
-\
-📨*READ* and fill out this form to make my life easier: [Referral Form](https://elyse.in/referral)
-
 ## Skills
 ![Docker](https://img.shields.io/badge/-Docker-000?&logo=Docker)&nbsp;
 ![Kubernetes](https://img.shields.io/badge/-Kubernetes-000?&logo=Kubernetes)&nbsp;
