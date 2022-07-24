@@ -6,7 +6,7 @@ I am the Founder of [Switch Into Tech](https://switchintotech.com), [SwitchInto.
 ## Current Facts
 - 🔭 I’m currently working on ... [Switch Into Tech](https://switchintotech.org)
 - ⌛ I'm finished with ... [SwitchIntoTech.com](https://SwitchIntoTech.com) and [NewsIn.it](https://NewsIn.it) and [SwitchInto.Tech](https://SwitchInto.Tech) and [Nube: Switch Into A Cloud Career](https://elyse.in/book)
-- 🌱 I’m currently learning ... C#
+- 🌱 I’m currently learning ... CISA
 - ⚡ Fun fact: ... I'm model size 5'11"
 
 ## Upcoming Seminars I'm Hosting
