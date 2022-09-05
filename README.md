@@ -12,7 +12,7 @@ I am the Founder of [Switch Into Tech](https://switchintotech.com), [SwitchInto.
 ## Upcoming Seminars I'm Hosting
 
 **Live Resume Reviews**\
-Sunday, August 28, 2022 @ 4:00pm Central\
+Sunday, September 25, 2022 @ 4:00pm Central\
 🔍 💰 Step into 6 figures 💰 🔎
 
 *A resume is the key that opens the interview door. Learn how to make your resume stand out from the rest.*
