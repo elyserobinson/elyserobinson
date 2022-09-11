@@ -6,7 +6,7 @@ I am the Founder of [Switch Into Tech](https://switchintotech.com), [SwitchInto.
 ## Current Facts
 - 🔭 I'm currently working on ... [Switch Into Tech](https://switchintotech.org)
 - ⌛ I'm finished with ... [SwitchIntoTech.com](https://SwitchIntoTech.com) and [NewsIn.it](https://NewsIn.it) and [SwitchInto.Tech](https://SwitchInto.Tech) and [Nube: Switch Into A Cloud Career](https://elyse.in/book)
-- 🌱 I'm currently learning ... CISA, Python, SAP, Splunk Core Certified Power User
+- 🌱 I'm currently learning ... CISA, Python (community college course), SAP (community college course as part of the [SAP University Alliance program](https://www.sap.com/about/company/innovation/next-gen-innovation-platform/university-alliances.html), Splunk Core Certified Power User
 - ⚡ Fun fact: ... I'm model size 5'11"
 
 ## Upcoming Seminars I'm Hosting
