@@ -1,12 +1,12 @@
 # Hi there ✊🏿
 
 ## About Me
-I am the Founder of [Switch Into Tech](https://switchintotech.com), [SwitchInto.Tech](https://SwitchInto.Tech) and [NewsIn.it](https://NewsIn.it) and an Azure Cloud Consultant...in love with Mexico, researching any and everything, and helping people get into the tech industry.
+I am the Founder of [Switch Into Tech](https://switchintotech.com), [SwitchInto.Tech](https://SwitchInto.Tech) and [NewsIn.it](https://NewsIn.it) and an Azure Cloud Consultant...in love with Mexico, researching any and everything, and helping people switch into the tech industry.
 
 ## Current Facts
-- 🔭 I’m currently working on ... [Switch Into Tech](https://switchintotech.org)
+- 🔭 I'm currently working on ... [Switch Into Tech](https://switchintotech.org)
 - ⌛ I'm finished with ... [SwitchIntoTech.com](https://SwitchIntoTech.com) and [NewsIn.it](https://NewsIn.it) and [SwitchInto.Tech](https://SwitchInto.Tech) and [Nube: Switch Into A Cloud Career](https://elyse.in/book)
-- 🌱 I’m currently learning ... CISA
+- 🌱 I'm currently learning ... CISA, Python, SAP, Splunk Core Certified Power User
 - ⚡ Fun fact: ... I'm model size 5'11"
 
 ## Upcoming Seminars I'm Hosting
