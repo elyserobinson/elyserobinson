@@ -11,15 +11,15 @@ I am the Founder of [Switch Into Tech](https://switchintotech.com), [SwitchInto.
 
 ## Upcoming Seminars I'm Hosting
 
-**Live Resume Reviews**\
-Sunday, September 25, 2022 @ 4:00pm Central\
+**Find an Entry Level Job in Tech: Switch to Become a Government Worker**\
+Sunday, October 23, 2022 @ 4:00pm Central\
 🔍 💰 Step into 6 figures 💰 🔎
 
-*A resume is the key that opens the interview door. Learn how to make your resume stand out from the rest.*
+*Why is it SO hard to find an entry level job in Tech? Let's explore another option to switch into tech and step into 6 figures.*
 
-Have your resume reviewed by Elyse. I will show you my Resume that has gotten me interviews at Apple, Google, Sofi, Palo Alto Networks, and more. The resume review will be a 15 minute live review with pure honesty. I will identify what needs to be improved and can help organize your information. Please have your resume and job description prepared. I will randomly select 3 people to review their resumes.
+Join Elyse Y. Robinson, a former government worker, and learn how to switch into tech through one of the best kept secrets out there: GOVERNMENT WORK. The government hires many entry level workers every year, including for careers in Tech. The type of projects you can work on, the financial benefits (PENSIONS!), the potential to give back to your community by being a public servant, and so many other advantages cannot be beat! Sign up today to find out how you can switch into tech with a wonderful career in the government.
 
-[REGISTER](https://elyse.in/aug)
+[REGISTER](https://elyse.in/oct)
 
 ## Skills
 ![Docker](https://img.shields.io/badge/-Docker-000?&logo=Docker)&nbsp;
