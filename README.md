@@ -11,15 +11,15 @@ I am the Founder of [Switch Into Tech](https://switchintotech.com), [SwitchInto.
 
 ## Upcoming Seminars I'm Hosting
 
-**Find an Entry Level Job in Tech: Switch to Become a Government Worker**\
-Sunday, October 23, 2022 @ 4:00pm Central\
+**Live LinkedIn Reviews**\
+Sunday, November 27, 2022 @ 4:00pm Central\
 🔍 💰 Step into 6 figures 💰 🔎
 
-*Why is it SO hard to find an entry level job in Tech? Let's explore another option to switch into tech and step into 6 figures.*
+*Learn how to make your LinkedIn profile stand out from the rest.*
 
-Join Elyse Y. Robinson, a former government worker, and learn how to switch into tech through one of the best kept secrets out there: GOVERNMENT WORK. The government hires many entry level workers every year, including for careers in Tech. The type of projects you can work on, the financial benefits (PENSIONS!), the potential to give back to your community by being a public servant, and so many other advantages cannot be beat! Sign up today to find out how you can switch into tech with a wonderful career in the government.
+Have your LinkedIn profile reviewed by Elyse. I will show you my LinkedIn profile, a profile that has gotten me interviews at FAANG and other top organizations like Comcast, Nike, and Morgan Stanley. The LinkedIn profile review will be a 15 minute live review with pure honesty. I will identify what needs to be improved and can help organize your information. Please have your LinkedIn profile and a real job bulletin prepared to share over Zoom. I will randomly select 3 people to review their LinkedIn profiles.
 
-[REGISTER](https://elyse.in/oct)
+[REGISTER](https://elyse.in/nov)
 
 ## Skills
 ![Docker](https://img.shields.io/badge/-Docker-000?&logo=Docker)&nbsp;
