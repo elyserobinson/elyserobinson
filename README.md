@@ -1,12 +1,12 @@
 # Hi there ✊🏿
 
 ## About Me
-I am the Founder of [Switch Into Tech](https://switchintotech.com), [SwitchInto.Tech](https://SwitchInto.Tech) and [NewsIn.it](https://NewsIn.it) and an Azure Cloud Consultant...in love with Mexico, researching any and everything, and helping people switch into the tech industry.
+I am the Founder of [Switch Into Tech](https://switchintotech.com), [SwitchInto.Tech](https://SwitchInto.Tech), and an Azure Cloud Consultant...in love with Mexico, researching any and everything, and helping people switch into the tech industry.
 
 ## Current Facts
 - 🔭 I'm currently working on ... [Switch Into Tech](https://switchintotech.org)
-- ⌛ I'm finished with ... [SwitchIntoTech.com](https://SwitchIntoTech.com) and [NewsIn.it](https://NewsIn.it) and [SwitchInto.Tech](https://SwitchInto.Tech) and [Nube: Switch Into A Cloud Career](https://elyse.in/book)
-- 🌱 I'm currently learning ... CISA, Python (community college course), SAP (community college course as part of the [SAP University Alliances program](https://www.sap.com/about/company/innovation/next-gen-innovation-platform/university-alliances.html), Splunk Core Certified Power User
+- ⌛ I'm finished with ... [SwitchIntoTech.com](https://SwitchIntoTech.com) and [SwitchInto.Tech](https://SwitchInto.Tech) and [Nube: Switch Into A Cloud Career](https://elyse.in/book)
+- 🌱 I'm currently learning ... CISA, Python (community college course), SAP (community college course as part of the [SAP University Alliances program](https://www.sap.com/about/company/innovation/next-gen-innovation-platform/university-alliances.html)
 - ⚡ Fun fact: ... I'm model size 5'11"
 
 ## Upcoming Seminars I'm Hosting
