@@ -12,7 +12,7 @@ I am the Founder of [Switch Into Tech](https://switchintotech.com), [SwitchInto.
 ## Upcoming Seminars I'm Hosting
 
 **Live LinkedIn Reviews**\
-Sunday, November 27, 2022 @ 4:00pm Central\
+Sunday, December 11, 2022 @ 4:00pm Central\
 🔍 💰 Step into 6 figures 💰 🔎
 
 *Learn how to make your LinkedIn profile stand out from the rest.*
