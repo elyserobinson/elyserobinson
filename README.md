@@ -1,25 +1,25 @@
 # Hi there ✊🏿
 
 ## About Me
-I am the Founder of [Switch Into Tech](https://switchintotech.com), [SwitchInto.Tech](https://SwitchInto.Tech), and an Azure Cloud Consultant...in love with Mexico, researching any and everything, and helping people switch into the tech industry.
+I am the Founder of [Switch Into Tech](https://switchintotech.org)...in love with Mexico, researching any and everything, and helping people switch into tech.
 
 ## Current Facts
-- 🔭 I'm currently working on ... [FullScholarships.org](https://FullScholarships.org), [Nobody Wants To Work Tho](https://nobody.chat), and [Diskmode](https://diskmode.com)
-- ⌛ I'm finished with ... [SwitchIntoTech.com](https://SwitchIntoTech.com) and [SwitchInto.Tech](https://SwitchInto.Tech) and [Nube: Switch Into A Cloud Career](https://elyse.in/book)
-- 🌱 I'm currently learning ... Linux, Python (community college course), SAP (community college course as part of the [SAP University Alliances program](https://www.sap.com/about/company/innovation/next-gen-innovation-platform/university-alliances.html)
+- 🔭 I'm currently working on ... [Nobody Wants To Work Tho](https://nobody.chat) and [Diskmode](https://diskmode.com)
+- ⌛ I'm finished with ... [SwitchIntoTech.com](https://SwitchIntoTech.com), [SwitchInto.Tech](https://SwitchInto.Tech) and [Nube: Switch Into A Cloud Career](https://elyse.in/book), [FullScholarships.org](https://FullScholarships.org)
+- 🌱 I'm currently learning ... [MS in Data Science](https://www.switchinto.tech/eastern), I'd like an internship for summer 2023 in quantitative finance. Get at me [me@elyserobinson.com](mailto:me@elyserobinson.com)
 - ⚡ Fun fact: ... I'm model size 5'11"
 
 ## Upcoming Seminars I'm Hosting
 
-**Live LinkedIn Reviews**\
-Sunday, December 11, 2022 @ 4:00pm Central\
+**📝 Live Resume Reviews**\
+Sunday, January 29, 2022 @ 4:00pm Central\
 🔍 💰 Step into 6 figures 💰 🔎
 
-*Learn how to make your LinkedIn profile stand out from the rest.*
+*A resume is the key that opens the interview door. Learn how to make your resume stand out from the rest.*
 
-Have your LinkedIn profile reviewed by Elyse. I will show you my LinkedIn profile, a profile that has gotten me interviews at FAANG and other top organizations like Comcast, Nike, and Morgan Stanley. The LinkedIn profile review will be a 15 minute live review with pure honesty. I will identify what needs to be improved and can help organize your information. Please have your LinkedIn profile and a real job bulletin prepared to share over Zoom. I will randomly select 3 people to review their LinkedIn profiles.
+Have your resume reviewed by Elyse. I will show you my resume, a resume that has gotten me interviews at FAANG and other top organizations like Apple, Google, and  Citibank. The resume review will be a 15 minute live review with pure honesty. I will identify what needs to be improved and can help organize your information. Please have your resume and a real job bulletin prepared to share over Zoom. I will randomly select 3 people to review their resumes.
 
-[REGISTER](https://elyse.in/nov)
+[REGISTER](https://elyse.in/jan)
 
 ## Skills
 ![Docker](https://img.shields.io/badge/-Docker-000?&logo=Docker)&nbsp;
@@ -36,6 +36,6 @@ Have your LinkedIn profile reviewed by Elyse. I will show you my LinkedIn profil
 <img src="https://www.neudesic.com/wp-content/uploads/Microsoft_Azure.png" alt="Azure" title="Azure" width="10%" />
     
 ## Contact Me
-[<img alt="ElyseRobinson.com" src="4490636_internet_media_social_social media_website_icon.png">](https://elyserobinson.com)
+[<img alt="SwitchIntoTech.org" src="4490636_internet_media_social_social media_website_icon.png">](https://switchintotech.org)
 [<img alt="Elyse Robinson | LinkedIn" src="104493_linkedin_icon.png">](https://linkedin.com/in/mselyserobinson)
 [<img alt="Elyse Robinson | Paypal" src="money-bag.png">](https://buy.stripe.com/bIYcPQ3c8dkL9qM6ou)
