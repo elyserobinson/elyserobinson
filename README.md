@@ -5,7 +5,7 @@ I am the Founder of [Switch Into Tech](https://switchintotech.org)...in love wit
 
 ## Current Facts
 - 🔭 I'm currently working on ... [Nobody Wants To Work Tho](https://nobody.chat) and [Diskmode](https://diskmode.com)
-- ⌛ I'm finished with ... [SwitchIntoTech.com](https://SwitchIntoTech.com), [SwitchInto.Tech](https://SwitchInto.Tech) and [Nube: Switch Into A Cloud Career](https://elyse.in/book), [FullScholarships.org](https://FullScholarships.org)
+- ⌛ I'm finished with ... [SwitchIntoTech.com](https://SwitchIntoTech.com), [Nube: Switch Into A Cloud Career](https://elyse.in/book), [FullScholarships.org](https://FullScholarships.org)
 - 🌱 I'm currently learning ... [MS in Data Science](https://www.switchinto.tech/eastern), I'd like an internship for summer 2023 in quantitative finance. Get at me [me@elyserobinson.com](mailto:me@elyserobinson.com)
 - ⚡ Fun fact: ... I'm model size 5'11"
 
